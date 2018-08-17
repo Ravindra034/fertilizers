@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>fertilizers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>fertilizers</name>
 	<description>Demo project for Spring Boot</description>
